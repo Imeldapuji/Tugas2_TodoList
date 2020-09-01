@@ -1,6 +1,6 @@
 # Tugas2_TodoList
 <h2>Dokumentasi Tugas Modul 2 : Aplikasi Todo List</h2>
-<h3>Imelda Puji Pangestu/XII RPL2/15</h3>
+<h3>Imelda Puji Pangestu/XII RPL 2/15</h3>
 <p>Halaman Awal</p>
 <img src="/images/1.png" alt="1"/>
 <br>
