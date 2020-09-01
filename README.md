@@ -10,6 +10,6 @@
 <p>Create Todo List 2</p>
 <img src="/images/3.png" alt="3"/>
 <br>
-<p>Create Todo List 2</p>
+<p>Delete Todo List 2</p>
 <img src="/images/4.png" alt="4"/>
 <br>
